@@ -1,1 +1,1 @@
-# Psixoloji-T-dqiqat-V--T-lim-M-rk-zi
+# Psixoloji TƏdqiqat VƏ TƏlim Mərkəzi
