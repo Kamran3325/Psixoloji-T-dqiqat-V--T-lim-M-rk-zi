@@ -328,7 +328,6 @@ strong {
   z-index: 2;
   will-change: transform;
   transition: transform 300ms linear;
-	margin-bottom:50px;
 }
 
 .navbar span, h2 span, h4 span {
